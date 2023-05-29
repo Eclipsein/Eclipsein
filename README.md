@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="eclipsein-logo.png" alt="Eclipsein Logo" width="200">
+  <img src="<img width="1366" alt="PHOENIX-LOGO-BY-IT-SELF" src="https://github.com/Eclipsein/Eclipsein/assets/130941040/e1a38dbd-c13a-41b0-8200-a009ebd3bfa5">
+" alt="Eclipsein Logo" width="200">
 </div>
 
 <h1 align="center">Hello, I'm Eclipsein! 👋</h1>
